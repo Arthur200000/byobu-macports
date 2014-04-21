@@ -11,4 +11,4 @@ SUBDIRS = etc/byobu \
 	usr/lib/byobu \
 	usr/lib/byobu/include \
 	usr/share/man/man1 \
-	usr/bin
+	usr/bin #Applications/Byobu.app/Contents/MacOS #Something like Byobu.in

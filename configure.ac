@@ -60,4 +60,5 @@ AC_OUTPUT(Makefile \
 	usr/share/doc/byobu/Makefile \
 	usr/lib/byobu/Makefile \
 	usr/lib/byobu/include/Makefile \
+	# Applications/Byobu.app/Contents/MacOS \
 	usr/share/man/man1/Makefile usr/bin/Makefile)
